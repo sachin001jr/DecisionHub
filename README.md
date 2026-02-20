@@ -8,25 +8,6 @@ A Rule Builder application “Decision Hub” that empowers Business Analysts to
 | --------------------------------- |
 |![image](https://github.com/user-attachments/assets/97adc3ca-da97-4dbe-810e-bac94db513c3)|
 
-| Dashboard                         |
-| --------------------------------- |
-| ![Image1](./assets/dashboard.jpg) |
-
-| Rules                          |
-| ------------------------------ |
-| ![Image4](./assets/rules3.jpg) |
-| ![Image3](./assets/rules2.jpg) |
-| ![Image2](./assets/rules.jpg)  |
-
-| Debug / Test Rules                 |
-| ---------------------------------- |
-| ![Image5](./assets/testRule.jpg)   |
-| ![Image6](./assets/testRule2.jpg)  |
-| ![Image7](./assets/testRule3.jpg)  |
-| ![Image8](./assets/testRule4.jpg)  |
-| ![Image9](./assets/testRule5.jpg)  |
-| ![Image10](./assets/testRule6.jpg) |
-| ![Image11](./assets/testRule7.jpg) |
 
 ## Features
 
@@ -101,6 +82,7 @@ OPENAI_API_KEY= <openai_api_key>
 ## Contributing
 
 We welcome contributions from the community to enhance DecisionHub. Feel free to submit bug reports, feature requests, or pull requests through the GitHub repository.
+
 
 ## Contact
 
